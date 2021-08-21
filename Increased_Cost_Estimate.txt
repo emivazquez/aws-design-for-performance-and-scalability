@@ -1,0 +1,1 @@
+The change was to increase the amount of instances to 24. Also a RDS read replica was added, the size of the current RDS Master and Read Replica was increased. 
